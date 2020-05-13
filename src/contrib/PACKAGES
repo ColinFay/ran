@@ -2,7 +2,7 @@ Package: argh
 Version: 0.0.0.9000
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 4a5080847ac570b18a24bf084614a830
+MD5sum: 3b83a009a2f6797896bd64aac1760dcc
 NeedsCompilation: no
 
 Package: ariel
@@ -10,14 +10,14 @@ Version: 0.0.0.9000
 Imports: attempt, curl, jsonlite, R6, httr, glue
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 4f49027aba4b28befc95c109057257dc
+MD5sum: 7c704c732c4152cbb8fa78ce9b297bfa
 NeedsCompilation: no
 
 Package: aside
 Version: 0.0.0.9000
 Imports: crayon, glue, purrr, rstudioapi
 License: MIT + file LICENSE
-MD5sum: caa35769bdeef11178ac134008b5265e
+MD5sum: c4968ef51d14f8e0955a7bbfc15fdf44
 NeedsCompilation: no
 
 Package: attempt
@@ -25,7 +25,7 @@ Version: 0.3.0
 Imports: rlang
 Suggests: testthat, knitr, rmarkdown, curl
 License: MIT + file LICENSE
-MD5sum: c34cf971684be558c0289a31c7d3d138
+MD5sum: caa794b1a22e2393dd7a0790b8096ffc
 NeedsCompilation: no
 
 Package: backyard
@@ -34,7 +34,7 @@ Imports: bookdown, DT, glue, graphics, shiny, shinyalert, shinyFiles,
         stats, stringr, textutils, withr, yaml, attempt
 Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 639bc780665fd6e9dbbd3d12dc5bec34
+MD5sum: 9f9d778af8b78bcded75866a3815d7a4
 NeedsCompilation: no
 
 Package: bubble
@@ -42,7 +42,7 @@ Version: 0.0.0.9003
 Imports: R6, cli, crayon, subprocess, rlang, jsonlite, knitr, attempt
 Suggests: rstudioapi
 License: MIT + file LICENSE
-MD5sum: 02d161c74da8fa3c1810325f698167ae
+MD5sum: 7cfdce6676e437a87d94fbd873eff2fd
 NeedsCompilation: no
 
 Package: craneur
@@ -50,14 +50,14 @@ Version: 0.0.0.9010
 Imports: attempt, desc, glue, R6, tools
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 46e48290ee38df198f396a9422d1a404
+MD5sum: ac93c7592e2b99e0b35f70b2503b9355
 NeedsCompilation: yes
 
 Package: darkmode
 Version: 0.0.0.9000
 Imports: jsonlite, htmltools
 License: MIT + file LICENSE
-MD5sum: 24a381609c5f804d44f105b0c8570b3e
+MD5sum: 83aeb7a44cb36d517e4492fd4d176cf8
 NeedsCompilation: yes
 
 Package: debugin
@@ -65,7 +65,7 @@ Version: 0.0.0.9000
 Imports: attempt, rstudioapi, crayon
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 874f75e927da786f123495c8fcbd122a
+MD5sum: 2458135b3df0724999a1f03c28e67434
 NeedsCompilation: yes
 
 Package: dockerfiler
@@ -73,14 +73,14 @@ Version: 0.1.3.9000
 Imports: attempt, glue, R6, utils
 Suggests: covr, testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: a7143d37a45f8d51a2aea928fbb83214
+MD5sum: d30997790ab17df1402a850932437b79
 NeedsCompilation: yes
 
 Package: dockerstats
 Version: 0.1.0
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 2eaacf69d530ea20e1b30bff33bfd4de
+MD5sum: f281a8b536d46a209d4f23975fcf14ae
 NeedsCompilation: yes
 
 Package: feathericons
@@ -89,7 +89,7 @@ Imports: attempt, htmltools, glue
 Depends: R (>= 2.10)
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 25f5e0fc0d7435a08922ef88c8f44c8e
+MD5sum: 4be9b8b1c6ff135c7699cc4cf8394643
 NeedsCompilation: yes
 
 Package: fryingpane
@@ -97,14 +97,14 @@ Version: 0.0.0.9000
 Imports: attempt, glue, shiny, tibble
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 817a53f0abe6490ef64edfc28ba3bbc1
+MD5sum: c192cafb7449ef7f9db9127a1baf844d
 NeedsCompilation: yes
 
 Package: gargoyle
 Version: 0.0.0.9000
 Imports: shiny, attempt
 License: MIT + file LICENSE
-MD5sum: fbf4d13439dd2517a3ebdf649a9c9726
+MD5sum: 84f1cde132f4b832681acc0a0c459a31
 NeedsCompilation: yes
 
 Package: geoloc
@@ -112,14 +112,14 @@ Version: 0.0.0.9500
 Imports: attempt, shiny, jsonlite
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 1071c114eb88ca803d7205774c12791c
+MD5sum: 0451b6be52fd396162a3d78ed8e0503b
 NeedsCompilation: yes
 
 Package: glouton
 Version: 0.0.0.9000
 Imports: shiny
 License: MIT + file LICENSE
-MD5sum: 8f0c8c9e955c760633f141b43accb461
+MD5sum: a0d25ab4131b4fd27acd94a7cc936a0b
 NeedsCompilation: yes
 
 Package: handydandy
@@ -127,7 +127,7 @@ Version: 0.0.0.9000
 Imports: R6, htmltools
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 16c0d92a57126772854440b9019d3a97
+MD5sum: fcbee571c932d58ba9b850d5d26bfe49
 NeedsCompilation: yes
 
 Package: languagelayeR
@@ -135,7 +135,7 @@ Version: 1.2.4
 Imports: httr, jsonlite, attempt, curl, utils
 Suggests: testthat, knitr, rmarkdown, covr
 License: MIT + file LICENSE
-MD5sum: cb4e7d69242101698630a22a6874150a
+MD5sum: 8fe804bcadbdf4f3b459199442d19cd9
 NeedsCompilation: yes
 
 Package: lexiquer
@@ -144,7 +144,7 @@ Imports: dplyr, rlang
 Depends: R (>= 2.10)
 Suggests: testthat, proustr, tidytext
 License: MIT + file LICENSE
-MD5sum: 52b29861cdd213a5414ff7ede6ebbdef
+MD5sum: f656ea01eb26c644acdd8a3037367ced
 NeedsCompilation: yes
 
 Package: minifyr
@@ -152,7 +152,7 @@ Version: 0.0.0.9000
 Imports: fs, processx, yesno, attempt, tools
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 3c91348d916d8e596711fd4f23ac7024
+MD5sum: 1bd44bd6eca55bbb0a5ea4d2943c99de
 NeedsCompilation: yes
 
 Package: nessy
@@ -160,7 +160,7 @@ Version: 0.0.0.9001
 Imports: attempt, shiny, glue
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: e8d34103df743e875c572bdda8c8031e
+MD5sum: 85a3065fa18aafb37afeae7bfb8cad4a
 NeedsCompilation: yes
 
 Package: odds
@@ -168,27 +168,27 @@ Version: 0.0.0.9000
 Imports: R6, qs, fs
 Suggests: testthat (>= 2.1.0), callr
 License: MIT + file LICENSE
-MD5sum: d909b70f42671a9578952af592a956ea
+MD5sum: 1b366387d16bd52715f788e8f6bd43c9
 NeedsCompilation: yes
 
 Package: resume
 Version: 0.0.0.9000
 Imports: htmltools
 License: MIT + file LICENSE
-MD5sum: 3c3772a1c536c95ae37bd2eb21a5d9d1
+MD5sum: ebf2c4315d98d5c616454f9bc9ef4b6e
 NeedsCompilation: yes
 
 Package: rfeel
 Version: 0.0.0.9000
 License: {{ License }}
-MD5sum: ac292f4f8ac4a86689723ae9963ce0ac
+MD5sum: 518d6ab0a11729e6cd2d712416e826b7
 NeedsCompilation: yes
 
 Package: rgeoapi
 Version: 1.1.0
 Imports: httr, rjson, magrittr, tools
 License: GPL-3
-MD5sum: fadbe8b1cf04e139306b75b52a148b35
+MD5sum: 403cfe8ae8c8f5c8e936042a452964a0
 NeedsCompilation: yes
 
 Package: rnotify
@@ -196,7 +196,7 @@ Version: 0.0.0.9000
 Imports: processx
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: a1a40afb1b90223f076b55b52ec1d82b
+MD5sum: 9c063db941038677c5361e386e7cf61a
 NeedsCompilation: yes
 
 Package: rpinterest
@@ -204,7 +204,7 @@ Version: 0.4.0
 Imports: attempt, curl, data.table, httr, jsonlite, base64enc, stats
 Suggests: ggplot2, knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 81d7029ea2add44eb404ab3d1f339e73
+MD5sum: 08db15600ca52ff936525bea5fa25641
 NeedsCompilation: yes
 
 Package: tidystringdist
@@ -212,7 +212,7 @@ Version: 0.1.4
 Imports: attempt, rlang, stringdist, tibble
 Suggests: dplyr, knitr, magrittr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 62f049b0ba22b56618a921ae72fd2598
+MD5sum: 299c7f6b436f82e1291d547481e473c9
 NeedsCompilation: yes
 
 Package: tweetthat
@@ -221,12 +221,12 @@ Imports: glue, utils, assertthat, rtweet, shiny, miniUI
 Depends: R (>= 3.4.1)
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: f6d975a3d0dd2703f7088496549bddca
+MD5sum: 462dd182620fcc08ea2ca4dbcf78941c
 NeedsCompilation: yes
 
 Package: wtfismyip
 Version: 0.0.0.9000
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: a98f5fb25a755033404358a497631dba
+MD5sum: a175e1c1aa5677b41092ac46621ffe99
 NeedsCompilation: yes
